@@ -1,15 +1,15 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
+BOT_TOKEN = "5652532609:AAHo2mzzhiJpPIyLrYW05I2OOSxE8xL_cos"
+OWNER_ID = 1281749717
+TELEGRAM_API = 8802706
+TELEGRAM_HASH = "97546900397a98f481bfb8252b1ac4f4"
 # OPTIONAL CONFIG
 USER_SESSION_STRING = ""
 DOWNLOAD_DIR = "/usr/src/app/downloads/"
 CMD_SUFFIX = ""
 AUTHORIZED_CHATS = ""
 SUDO_USERS = ""
-DATABASE_URL = ""
+DATABASE_URL = "mongodb+srv://admin:admin123@cluster0.hmrbo.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 STATUS_LIMIT = 10
 DEFAULT_UPLOAD = "rc"
 STATUS_UPDATE_INTERVAL = 15
@@ -22,7 +22,7 @@ USE_SERVICE_ACCOUNTS = False
 NAME_SUBSTITUTE = ""
 FFMPEG_CMDS = {}
 # GDrive Tools
-GDRIVE_ID = ""
+GDRIVE_ID = "1ZEt3smCeSQOAkoddc-8eMAvQVAFFIrLV"
 IS_TEAM_DRIVE = False
 STOP_DUPLICATE = False
 INDEX_URL = ""
@@ -34,8 +34,8 @@ RCLONE_SERVE_PORT = 0
 RCLONE_SERVE_USER = ""
 RCLONE_SERVE_PASS = ""
 # JDownloader
-JD_EMAIL = ""
-JD_PASS = ""
+JD_EMAIL = "jruss0702@gmail.com"
+JD_PASS = "Im@!@#456"
 # Sabnzbd
 USENET_SERVERS = [
     {
@@ -58,7 +58,7 @@ USENET_SERVERS = [
     }
 ]
 # Update
-UPSTREAM_REPO = ""
+UPSTREAM_REPO = "https://github.com/anasty17/mirror-leech-telegram-bot"
 UPSTREAM_BRANCH = "master"
 # Leech
 LEECH_SPLIT_SIZE = 0
