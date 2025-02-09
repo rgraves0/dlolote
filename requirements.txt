@@ -32,4 +32,5 @@ urllib3
 uvloop
 xattr
 aioaria2
+aioqbt
 yt-dlp[default,curl-cffi]
