@@ -31,4 +31,5 @@ tgcrypto
 urllib3
 uvloop
 xattr
+aioaria2
 yt-dlp[default,curl-cffi]
